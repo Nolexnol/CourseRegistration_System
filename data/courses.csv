@@ -1,0 +1,13 @@
+course_id,name,instructor,day,time,max_students,credits
+ART101,Art Appreciation,Dr. White,Friday,10:00-10:50,20,3
+BIO101,Principles of Biology,Dr. Martinez,Tuesday,14:00-14:50,35,3
+CHEM101,General Chemistry I,Dr. Lee,Wednesday,09:00-09:50,40,3
+CS101,Intro to Programming,Prof. Wilson,Monday,13:00-14:20,30,3
+ECON101,Microeconomics,Prof. Anderson,Thursday,09:00-10:20,28,3
+ENG101,Composition I,Prof. Brown,Thursday,12:00-12:50,25,3
+HIST101,World History,Dr. Davis,Friday,14:00-14:50,30,3
+MATH101,Calculus I,Dr. Smith,Monday,11:00-11:50,35,4
+MUSI100,Music Fundamentals,Dr. Evans,Wednesday,15:00-16:20,15,3
+PHYS101,General Physics I,Dr. Johnson,Tuesday,10:00-11:50,30,4
+PSY101,Intro to Psychology,Dr. Taylor,Wednesday,11:00-11:50,30,3
+SPAN101,Elementary Spanish I,Prof. Garcia,Monday,08:00-08:50,25,4
